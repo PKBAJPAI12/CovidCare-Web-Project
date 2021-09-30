@@ -11,9 +11,9 @@ HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
 
 Feature Used for CovidCare Website
 
-# Used HTML,CSS & Bootstrap for Make Layout and Design of Website
-# Use Javacript for Show Live Data of Covid Cases and Hospital & Beds Data
-# USe Bootstrap for Making Modals and some Other samll things
-# Use PHP as Backend Language for Connect with SQL Database
-# Use PHP for SignUP & Login & Logout System for Website
+1 Used HTML,CSS & Bootstrap for Make Layout and Design of Website
+2 Use Javacript for Show Live Data of Covid Cases and Hospital & Beds Data
+3 USe Bootstrap for Making Modals and some Other samll things
+4 Use PHP as Backend Language for Connect with SQL Database
+5 Use PHP for SignUP & Login & Logout System for Website
 
